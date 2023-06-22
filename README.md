@@ -4,6 +4,13 @@ All credits to GPT3 for writing this code, I'm just the prompt guy
 
 Use something like https://www.tutorialspoint.com/execute_matplotlib_online.php to run online
 
+For more context goto https://attackofthefanboy.com/articles/the-quake-iii-algorithm-that-defies-math-explained/
+Or google "Q3 Arena inverse square root estimation hack" 
+
+The goal of this is to illustrate how easy it is to use GPT3 and python to plot a funcition and log() chart which illustrates the deviation of the fast inverse square root calculation hack versus the "correct" calculation.
+
+BUT THAT'S NOT THE POINT!!! The POINT is that vector estimation hacks with 0.1% effect increase the skill ceiling of games by magnitudes of more than 10% and that's why Q3 is the greatest of all speedrunning games.
+
 GPT3 prompt and response:
 
 We need to plot the following:
