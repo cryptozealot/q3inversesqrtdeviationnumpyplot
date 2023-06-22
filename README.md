@@ -1,6 +1,7 @@
 # q3inversesqrtnumpy
 All credits to GPT3 for writing this code, I'm just the prompt guy
 
+![Alt text]([image link](https://github.com/cryptozealot/q3inversesqrtnumpy/blob/main/q3isqrt.PNG))
 
 Use something like https://www.tutorialspoint.com/execute_matplotlib_online.php to run online
 
