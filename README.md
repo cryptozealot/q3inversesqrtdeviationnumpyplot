@@ -3,6 +3,8 @@ All credits to GPT3 for writing this code, I'm just the prompt guy
 
 ![Alt text]([[image link](https://github.com/cryptozealot/q3inversesqrtnumpy/blob/main/q3isqrt.PNG)])
 
+![Img](q3isqrt.png?raw=true "Employee Data title")
+
 Use something like https://www.tutorialspoint.com/execute_matplotlib_online.php to run online
 
 For more context goto https://attackofthefanboy.com/articles/the-quake-iii-algorithm-that-defies-math-explained/
