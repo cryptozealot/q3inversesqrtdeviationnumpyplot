@@ -13,7 +13,7 @@ The goal of this is to illustrate how easy it is to use GPT3 and python to plot 
 
 BUT THAT'S NOT THE POINT!!! The POINT is that a vector estimation hack with 0.1% effect increases the skill ceiling of the game by more than 10% of overall run speed time, as fps is fixed at 125 and every single frame allows for a fininte and calculatable amount of speed units more gained! That's why Q3 is the greatest of all speedrunning games!!! 
 
-How cool is that?! The limitations of not having hardware inverse square root and John Carmack genious gave us the game with the highest speedrunning skill ceiling ever. The estimation function measuring air acelleration vector has a 0.1% deviation, which players can manupulate 125 times per second by mouse orientation synced with strafe keyboard presses to achieve ~10% better overal run speeds.
+How cool is that?! The limitations of not having hardware inverse square root and Terje Mathisen and John Carmack genious gave us the game with the highest speedrunning skill ceiling ever. The estimation function measuring air acelleration vector has a 0.1% deviation, which players can manupulate 125 times per second by mouse orientation synced with strafe keyboard presses to achieve ~10% better overal run speeds.
 ########
 
 GPT3 prompt and response below:
