@@ -2,6 +2,8 @@
 All credits to GPT3 for writing this code, I'm just the prompt guy
 
 
+Use something like https://www.tutorialspoint.com/execute_matplotlib_online.php to run online
+
 GPT3 prompt and response:
 
 We need to plot the following:
