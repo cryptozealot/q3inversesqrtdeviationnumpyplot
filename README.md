@@ -2,7 +2,7 @@
 All credits to GPT3 for writing this code, I'm just the prompt guy
 
 
-![Img](q3isqrt.png "img")
+![Img](q3isqrt.PNG "img")
 
 Use something like https://www.tutorialspoint.com/execute_matplotlib_online.php to run online
 
